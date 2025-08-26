@@ -41,7 +41,8 @@ docker-compose --version
 
 ```bash
 cd /etc
-git clone <url>
+git clone [<url>](https://github.com/emigodki/back-to-homelab.git)
+# Recomiendo renombrar la carpeta wireguard-vps a wireguard y eliminar los demás archivos del repo
 cd /wireguard
 ```
 
@@ -108,7 +109,8 @@ docker-compose --version
 
 ```bash
 cd /etc
-git clone <url>
+git clone https://github.com/emigodki/back-to-homelab.git
+# Recomiendo renombar la carpeta wireguard-homelab a wireguard y eliminar los demás archivos del repo
 cd /wireguard/config/wg_confs
 nano wg0.conf
 ```
