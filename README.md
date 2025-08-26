@@ -223,10 +223,3 @@ Si la VPN funciona, verás transferencia de datos en ambos lados.
    docker-compose down
    docker-compose up -d
    ```
-
-```
-
----
-
-👉 ¿Quieres que además te prepare un **diagrama en ASCII/Markdown** de la topología (VPS ↔ HomeLab ↔ Clientes) para que quede más visual en el README, o prefieres mantenerlo puro texto?
-```
