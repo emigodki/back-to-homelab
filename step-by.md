@@ -154,7 +154,7 @@ Copiamos el contenido
 ### Paso 2
 Descargamos e instalamos Wireguard para windows
 Al abrirlo le daremos en añadir tunel y añadir tunel vacio
-![[Pasted image 20250826144154.png]]
+![[./assets/Pasted image 20250826144154.png]]
 
 Y pegamos el contenido del peer que acabamos de copiar
 ![[Pasted image 20250826144338.png]]
